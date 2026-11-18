@@ -23,10 +23,10 @@ Detect fraudulent credit card transactions. Fraud is extremely rare (about 0.17%
 
 |File|Purpose|
 |-|-|
-|`Fraud\_Detection\_Project\_FalakRehman.ipynb`|Full project notebook (run in Google Colab)|
-|`fraud\_model.keras`|Saved neural network|
-|`fraud\_scaler.pkl`|Fitted scaler|
-|`fraud\_config.json`|Feature order and chosen threshold|
+|`Fraud_Detection_Project_FalakRehman.ipynb`|Full project notebook (run in Google Colab)|
+|`fraud_model.keras`|Saved neural network|
+|`fraud_scaler.pkl`|Fitted scaler|
+|`fraud_config.json`|Feature order and chosen threshold|
 
 ## How to run
 
