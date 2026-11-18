@@ -38,16 +38,10 @@ Detect fraudulent credit card transactions. Fraud is extremely rare (about 0.17%
 
 The Neural Network achieved precision 0.82, recall 0.79 and F1 0.81, catching 56 of 71 frauds in the test set with only 12 false alarms. It catches about 65% of the fraud value while flagging only 0.028% of legitimate transactions.
 
-
-
 | Model | Precision | Recall | F1 | PR-AUC | Frauds caught (of 71) | False alarms |
-
 |---|---|---|---|---|---|---|
-
 | Logistic Regression | 0.809 | 0.775 | 0.791 | 0.681 | 55 | 13 |
-
 | Random Forest | 0.770 | 0.803 | 0.786 | 0.789 | 57 | 17 |
-
 | Neural Network | 0.824 | 0.789 | 0.806 | 0.671 | 56 | 12 |
 
 ## Tech
